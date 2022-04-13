@@ -20,8 +20,8 @@ _putchar(alphabet);
 }
 
 count++;
-_putchar('\n')
-
+_putchar('\n');
 }
+
 
 }
