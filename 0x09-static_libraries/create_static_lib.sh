@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #ifndef MAIN_H
 #define MAIN_H
+=======
+#ifndef FILE_MAIN
+#define FILE_MAIN
+
+/*the list given form task zero */
+>>>>>>> 11ca2e937f5126795b4292c9dcf73244aa5ad291
 
 int _putchar(char c);
 int _islower(int c);
@@ -17,7 +24,11 @@ char *_strncpy(char *dest, char *src, int n);
 int _strcmp(char *s1, char *s2);
 char *_memset(char *s, char b, unsigned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
+<<<<<<< HEAD
 char *_strchr(char *s, char c);
+=======
+char *_strchr(char *s, char *c);
+>>>>>>> 11ca2e937f5126795b4292c9dcf73244aa5ad291
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
