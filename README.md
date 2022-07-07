@@ -1,1 +1,1 @@
-my readme for nested loops
+readme for 0x17
